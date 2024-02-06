@@ -2,7 +2,7 @@
 
 ### Repository Overview 
 
-This repository contains a library of my notes on the second half of the "Machine Learning with Python Certification" course by freeCodeCamp. These notes were produced as part of my independent study of Python, and are shared here for use as a reference resource. The first half of the content for this course covered TensorFlow in Python. My notes on the content for this can be and found in [their sister repository](https://github.com/franpanteli/Python-TensorFlow-Library).
+This repository contains a library of my notes on the second half of the "Machine Learning with Python Certification" course by freeCodeCamp. These notes were produced as part of my independent study of Python, and are shared here for use as a reference resource. The first half of the content for this course covered TensorFlow in Python. My notes from the content for this can be found in [their sister repository](https://github.com/franpanteli/Python-TensorFlow-Library).
 
 The focus of the second this section this course is beyond TensorFlow with Python and delving into more advanced concepts in deep learning with neural networks. This explores practical applications and advanced techniques in machine learning, with a view to neural networks in Python. These topics include neural networks, recurrent neural networks (RNN) with Long Short-Term Memory (LSTM), convolutional neural networks (CNN), natural language processing (NLP), and reinforcement learning. 
 
