@@ -6,7 +6,7 @@ This repository contains a library of my notes on the second half of the "Machin
 
 The second half of the content for this course delves into more advanced concepts in deep learning. This explores practical applications and advanced techniques in machine learning, with a view to neural networks in Python. Topics in this, the latter half of the course content, include neural networks, recurrent neural networks (RNN) with Long Short-Term Memory (LSTM), convolutional neural networks (CNN), natural language processing (NLP) and reinforcement learning. 
 
-This library consists of 4 PDF files, each corresponding to longer video lecture covered in the second half of the course. These offer insights into the principles behind neural networks, advanced deep learning techniques, and specialised areas such as NLP and reinforcement learning. Links to these files are clickable under the "Course Sections Covered" subheading of this repository. Further information about the course details are found in the Course Details section below. 
+This library consists of 4 PDF files, each corresponding to longer video lecture. Links to these files are clickable under the "Course Sections Covered" subheading of this repository. Further information about the course details are found in the "Course Details" section below. 
 
 ### Course Details
 - **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
