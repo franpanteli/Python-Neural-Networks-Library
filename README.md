@@ -8,7 +8,7 @@ The second half of the content for this course delves into more advanced concept
 
 This library consists of 4 PDF files, each corresponding to longer video lecture. Links to these files are clickable under the "Course Sections Covered" subheading of this repository. Further information about the course details are found in the "Course Details" section below. 
 
-### Course Details
+### Course Details For "Machine Learning with Python"
 - **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
 - **Instructor:** Brandon Rohrer
 - **Framework:** Deep Learning
