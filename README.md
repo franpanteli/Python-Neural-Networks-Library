@@ -21,5 +21,5 @@ This library consists of 4 PDF files, each corresponding to longer video lecture
 
 ### To Clone This Repository
 ```
-git clone https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project.git
+git clone https://github.com/franpanteli/Python-Neural-Networks-Library.git
 ```
