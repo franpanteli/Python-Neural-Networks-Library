@@ -18,3 +18,8 @@ This library consists of 4 PDF files, each corresponding to longer video lecture
 2. [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](./2%20of%204%20Recurrent%20Neural%20Networks%20RNN%20and%20Long%20Short%20Term%20Memory%20LSTM.pdf)
 3. [Deep Learning Demystified](./3%20of%204%20Deep%20Learning%20Demystified.pdf)
 4. [How Convolutional Neural Networks Work](./4%20of%204%20How%20Convolutional%20Neural%20Networks%20work.pdf)
+
+### To Clone This Repository
+```
+git clone https://github.com/franpanteli/Relational-Databases-Number-Guessing-Game-Project.git
+```
