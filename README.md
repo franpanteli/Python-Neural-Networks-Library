@@ -14,10 +14,10 @@ This library consists of 4 PDF files, each corresponding to longer video lecture
 - **Framework:** Deep Learning
 
 ### Course Sections Covered For "How Neural Networks Work"
-1. [How Deep Neural Networks Work](./1%20of%204%20How%20Deep%20Neural%20Networks%20Work.pdf)
-2. [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](./2%20of%204%20Recurrent%20Neural%20Networks%20RNN%20and%20Long%20Short%20Term%20Memory%20LSTM.pdf)
-3. [Deep Learning Demystified](./3%20of%204%20Deep%20Learning%20Demystified.pdf)
-4. [How Convolutional Neural Networks Work](./4%20of%204%20How%20Convolutional%20Neural%20Networks%20work.pdf)
+1. [How Deep Neural Networks Work](https://github.com/franpanteli/Python-Neural-Networks-Library/blob/main/Python-Neural-Networks-Library/1%20of%204%20How%20Deep%20Neural%20Networks%20Work.pdf)
+2. [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://github.com/franpanteli/Python-Neural-Networks-Library/blob/main/Python-Neural-Networks-Library/2%20of%204%20Recurrent%20Neural%20Networks%20RNN%20and%20Long%20Short%20Term%20Memory%20LSTM.pdf)
+3. [Deep Learning Demystified](https://github.com/franpanteli/Python-Neural-Networks-Library/blob/main/Python-Neural-Networks-Library/3%20of%204%20Deep%20Learning%20Demystified.pdf)
+4. [How Convolutional Neural Networks Work](https://github.com/franpanteli/Python-Neural-Networks-Library/blob/main/Python-Neural-Networks-Library/4%20of%204%20How%20Convolutional%20Neural%20Networks%20work.pdf)
 
 ### To Clone This Repository
 ```
